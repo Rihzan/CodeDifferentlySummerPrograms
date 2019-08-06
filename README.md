@@ -19,9 +19,9 @@ Links to work
 
 ##### Code Pens
 
--
 
--[Javascript BeatMaker](https://codepen.io/Rihzan/pen/LKxJvd)
+
+- [Javascript BeatMaker](https://codepen.io/Rihzan/pen/LKxJvd)
 - [Javascript Aquarium ](https://codepen.io/Rihzan/pen/pXBwGQ)
 - [Javascript Whack A Mole](https://codepen.io/Rihzan/pen/wVKNPG)
 
