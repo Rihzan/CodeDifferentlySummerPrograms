@@ -26,7 +26,7 @@ Links to work
 - [Javascript Whack A Mole](https://codepen.io/Rihzan/pen/wVKNPG)
 
 ##### Github
--
+
 1. [About Yourself Portfolio Example](https://github.com/CodeDifferently/AboutYouPortfolio)
 2. [Tech Tuesday Questions](https://github.com/CodeDifferently/TechTuesdayQuestions)
 3. [Whack A Mole Guide/Read-Along](https://github.com/CodeDifferently/Whack-A-Mole)
