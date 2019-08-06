@@ -1,7 +1,7 @@
 # Naz's WorkLoad
 
 ---
-#####Week of 08/05/19
+##### Week of 08/05/19
 * Updated CodeDifferently Github with previous work and this weeks
 * Kanban ReadMe
 * Created Kanban strategies for teams
@@ -17,13 +17,13 @@
 
 Links to work
 
-#####Code Pens
+##### Code Pens
 -
 
 - [Javascript Aquarium ](https://codepen.io/Rihzan/pen/pXBwGQ)
 - [Javascript Whack A Mole](https://codepen.io/Rihzan/pen/wVKNPG)
 
-#####Github
+##### Github
 -
 1. [About Yourself Portfolio Example](https://github.com/CodeDifferently/AboutYouPortfolio)
 2. [Tech Tuesday Questions](https://github.com/CodeDifferently/TechTuesdayQuestions)
